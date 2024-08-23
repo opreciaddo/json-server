@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Sneaker 1",
+      "description": "Sneaker with cordons",
+      "price": 10,
+      "currency": "USD",
+      "image": "https://i.ibb.co/0s3pdnc/adidas-nmd.png",
+      "rating": 1.5
+    },
+    {
+      "id": 2,
+      "title": "Sneaker 2",
+      "description": "Sneaker with cordons",
+      "price": 20,
+      "currency": "USD",
+      "image": "https://i.ibb.co/dJbG1cT/yeezy.png",
+      "rating": 2.5
+    },
+    {
+      "id": 3,
+      "title": "Sneaker 3",
+      "description": "Sneaker with cordons",
+      "price": 30,
+      "currency": "USD",
+      "image": "https://i.ibb.co/1RcFPk0/white-nike-high-tops.png",
+      "rating": 3.5
+    },
+    {
+      "id": 4,
+      "title": "Sneaker 4",
+      "description": "Sneaker with cordons",
+      "price": 40,
+      "currency": "USD",
+      "image": "https://i.ibb.co/QcvzydB/nikes-red.png",
+      "rating": 4.5
+    },
+    {
+      "id": 5,
+      "title": "Sneaker 5",
+      "description": "Sneaker with cordons",
+      "price": 50,
+      "currency": "USD",
+      "image": "https://i.ibb.co/fMTV342/nike-brown.png",
+      "rating": 5.5
+    },
+    {
+      "id": 6,
+      "title": "Sneaker 6",
+      "description": "Sneaker with cordons",
+      "price": 60,
+      "currency": "USD",
+      "image": "https://i.ibb.co/w4k6Ws9/nike-funky.png",
+      "rating": 6.5
+    },
+    {
+      "id": 7,
+      "title": "Sneaker 7",
+      "description": "Sneaker with cordons",
+      "price": 70,
+      "currency": "USD",
+      "image": "https://i.ibb.co/Mhh6wBg/timberlands.png",
+      "rating": 7.5
+    }
+  ]
+}
