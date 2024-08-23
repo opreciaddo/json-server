@@ -6,7 +6,7 @@
       "description": "Sneaker with cordons",
       "price": 10,
       "currency": "USD",
-      "image": "https://i.ibb.co/0s3pdnc/adidas-nmd.png",
+      "image": "https://raw.githubusercontent.com/opreciaddo/json-server/main/assets/images/sneakers/adidas-nmd.png",
       "rating": 1.5
     },
     {
@@ -15,7 +15,7 @@
       "description": "Sneaker with cordons",
       "price": 20,
       "currency": "USD",
-      "image": "https://i.ibb.co/dJbG1cT/yeezy.png",
+      "image": "https://raw.githubusercontent.com/opreciaddo/json-server/main/assets/images/sneakers/yeezy.png",
       "rating": 2.5
     },
     {
@@ -24,7 +24,7 @@
       "description": "Sneaker with cordons",
       "price": 30,
       "currency": "USD",
-      "image": "https://i.ibb.co/1RcFPk0/white-nike-high-tops.png",
+      "image": "https://raw.githubusercontent.com/opreciaddo/json-server/main/assets/images/sneakers/white-nike-high-tops.png",
       "rating": 3.5
     },
     {
@@ -33,7 +33,7 @@
       "description": "Sneaker with cordons",
       "price": 40,
       "currency": "USD",
-      "image": "https://i.ibb.co/QcvzydB/nikes-red.png",
+      "image": "https://raw.githubusercontent.com/opreciaddo/json-server/main/assets/images/sneakers/nikes-red.png",
       "rating": 4.5
     },
     {
@@ -42,7 +42,7 @@
       "description": "Sneaker with cordons",
       "price": 50,
       "currency": "USD",
-      "image": "https://i.ibb.co/fMTV342/nike-brown.png",
+      "image": "https://raw.githubusercontent.com/opreciaddo/json-server/main/assets/images/sneakers/nike-brown.png",
       "rating": 5.5
     },
     {
@@ -51,7 +51,7 @@
       "description": "Sneaker with cordons",
       "price": 60,
       "currency": "USD",
-      "image": "https://i.ibb.co/w4k6Ws9/nike-funky.png",
+      "image": "https://raw.githubusercontent.com/opreciaddo/json-server/main/assets/images/sneakers/nike-funky.png",
       "rating": 6.5
     },
     {
@@ -60,7 +60,7 @@
       "description": "Sneaker with cordons",
       "price": 70,
       "currency": "USD",
-      "image": "https://i.ibb.co/Mhh6wBg/timberlands.png",
+      "image": "https://raw.githubusercontent.com/opreciaddo/json-server/main/assets/images/sneakers/timberlands.png",
       "rating": 7.5
     }
   ]
